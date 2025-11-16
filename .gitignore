@@ -1,0 +1,19 @@
+# Ignore student face images
+faces/
+
+# Ignore ML models (large .h5)
+models/
+
+# Ignore Haarcascade XML
+data/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
